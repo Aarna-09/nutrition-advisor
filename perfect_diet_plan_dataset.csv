@@ -1,0 +1,501 @@
+age,weight,height,activity_level,health_conditions,calorie_needs,breakfast_plan,lunch_plan,dinner_plan
+47,102,181,1.2,liver_disease,2119.5,Boiled oats with almond milk,Vegetable soup with whole-grain bread,Vegetable stew with rice
+56,100,174,1.2,diabetic,1989.0,Boiled eggs with avocado,Quinoa salad with tofu,Lentil soup with whole-grain bread
+54,63,141,1.725,liver_disease,1882.41,Vegetable omelette,Grilled fish with steamed greens,Baked veggies with lean protein
+63,104,189,1.55,high_bp,2722.19,Egg whites with avocado,Grilled tofu with spinach,Vegetable curry with rice
+49,102,186,1.725,high_bp,3083.44,Egg whites with avocado,Chicken salad with olive oil,Vegetable curry with rice
+60,67,189,1.2,liver_disease,1681.5,Vegetable omelette,Vegetable soup with whole-grain bread,Vegetable stew with rice
+33,55,142,1.375,healthy,1756.56,Greek yogurt with honey,Turkey sandwich,Baked salmon with quinoa
+60,73,160,1.375,high_bp,1760.0,Egg whites with avocado,Steamed fish with brown rice,Vegetable curry with rice
+35,57,165,1.375,high_bp,1754.84,Egg whites with avocado,Chicken salad with olive oil,Steamed vegetables with grilled chicken
+60,85,171,1.9,liver_disease,2790.62,Vegetable omelette,Grilled fish with steamed greens,Vegetable stew with rice
+30,94,151,1.725,liver_disease,2731.97,Boiled oats with almond milk,Vegetable soup with whole-grain bread,Grilled fish with quinoa
+56,98,175,1.375,high_bp,2260.16,Whole-grain toast with peanut butter,Chicken salad with olive oil,Vegetable curry with rice
+65,71,168,1.9,diabetic,2441.5,Oatmeal with chia seeds,Boiled chicken with veggies,Grilled fish with steamed greens
+57,73,176,1.725,liver_disease,2406.38,Vegetable omelette,Vegetable soup with whole-grain bread,Vegetable stew with rice
+19,42,175,1.9,high_bp,2410.62,Whole-grain toast with peanut butter,Grilled tofu with spinach,Steamed vegetables with grilled chicken
+37,73,187,1.725,high_bp,2697.47,Whole-grain toast with peanut butter,Grilled tofu with spinach,Lentil soup with whole-grain
+40,115,191,1.375,high_bp,2741.41,Whole-grain toast with peanut butter,Chicken salad with olive oil,Vegetable curry with rice
+52,102,198,1.2,liver_disease,2217.0,Vegetable omelette,Grilled fish with steamed greens,Grilled fish with quinoa
+45,52,193,1.2,liver_disease,1621.5,Smoothie with chia seeds,Grilled fish with steamed greens,Baked veggies with lean protein
+51,81,142,1.2,liver_disease,1551.0,Vegetable omelette,Boiled chicken with steamed rice,Baked veggies with lean protein
+62,76,140,1.725,high_bp,2026.88,Egg whites with avocado,Steamed fish with brown rice,Lentil soup with whole-grain
+40,94,160,1.375,diabetic,2186.25,Low-sugar smoothie,Steamed fish with greens,Grilled fish with steamed greens
+57,52,178,1.9,healthy,2569.75,Oatmeal with fruits,Turkey sandwich,Grilled chicken with sweet potatoes
+34,87,162,1.55,healthy,2662.12,Oatmeal with fruits,Grilled chicken with veggies,Grilled chicken with sweet potatoes
+24,71,158,1.375,liver_disease,1962.81,Vegetable omelette,Boiled chicken with steamed rice,Baked veggies with lean protein
+59,74,141,1.375,high_bp,1617.34,Whole-grain toast with peanut butter,Steamed fish with brown rice,Vegetable curry with rice
+28,93,148,1.375,diabetic,2151.88,Oatmeal with chia seeds,Boiled chicken with veggies,Grilled fish with steamed greens
+39,60,174,1.2,high_bp,1611.0,Egg whites with avocado,Chicken salad with olive oil,Steamed vegetables with grilled chicken
+23,49,146,1.9,liver_disease,2161.25,Smoothie with chia seeds,Boiled chicken with steamed rice,Vegetable stew with rice
+18,111,180,1.725,diabetic,3441.38,Low-sugar smoothie,Steamed fish with greens,Lentil soup with whole-grain bread
+62,97,171,1.55,liver_disease,2447.06,Smoothie with chia seeds,Vegetable soup with whole-grain bread,Grilled fish with quinoa
+43,83,170,1.9,liver_disease,2902.25,Boiled oats with almond milk,Grilled fish with steamed greens,Grilled fish with quinoa
+38,99,171,1.9,high_bp,3265.62,Egg whites with avocado,Chicken salad with olive oil,Vegetable curry with rice
+25,66,183,1.725,liver_disease,2637.09,Vegetable omelette,Boiled chicken with steamed rice,Vegetable stew with rice
+65,69,174,1.55,high_bp,2018.88,Egg whites with avocado,Chicken salad with olive oil,Vegetable curry with rice
+65,53,147,1.9,healthy,2144.62,Oatmeal with fruits,Turkey sandwich,Grilled chicken with sweet potatoes
+46,98,173,1.9,high_bp,3194.38,Egg whites with avocado,Chicken salad with olive oil,Lentil soup with whole-grain
+44,103,191,1.375,liver_disease,2548.91,Smoothie with chia seeds,Boiled chicken with steamed rice,Vegetable stew with rice
+47,46,194,1.2,healthy,1731.0,Oatmeal with fruits,Turkey sandwich,Grilled chicken with sweet potatoes
+36,72,154,1.375,diabetic,1859.69,Oatmeal with chia seeds,Boiled chicken with veggies,Lentil soup with whole-grain bread
+44,64,192,1.375,diabetic,2021.25,Oatmeal with chia seeds,Quinoa salad with tofu,Steamed veggies with tofu
+33,52,175,1.375,diabetic,1785.78,Oatmeal with chia seeds,Steamed fish with greens,Steamed veggies with tofu
+55,94,192,1.9,liver_disease,3258.5,Boiled oats with almond milk,Grilled fish with steamed greens,Grilled fish with quinoa
+18,64,177,1.725,healthy,2865.66,Oatmeal with fruits,Turkey sandwich,Vegetable stir fry
+42,101,191,1.375,healthy,2748.28,Oatmeal with fruits,Grilled chicken with veggies,Grilled chicken with sweet potatoes
+61,87,196,1.9,high_bp,3116.0,Egg whites with avocado,Grilled tofu with spinach,Lentil soup with whole-grain
+31,118,189,1.55,liver_disease,3187.19,Vegetable omelette,Vegetable soup with whole-grain bread,Baked veggies with lean protein
+40,101,197,1.725,high_bp,3262.41,Banana smoothie,Steamed fish with brown rice,Lentil soup with whole-grain
+64,60,167,1.375,diabetic,1613.91,Low-sugar smoothie,Boiled chicken with veggies,Lentil soup with whole-grain bread
+45,87,157,1.375,liver_disease,2029.84,Boiled oats with almond milk,Grilled fish with steamed greens,Vegetable stew with rice
+43,113,157,1.55,high_bp,2706.69,Banana smoothie,Steamed fish with brown rice,Steamed vegetables with grilled chicken
+42,89,165,1.375,liver_disease,2146.72,Smoothie with chia seeds,Boiled chicken with steamed rice,Baked veggies with lean protein
+23,108,157,1.375,diabetic,2469.84,Oatmeal with chia seeds,Steamed fish with greens,Steamed veggies with tofu
+62,53,160,1.2,high_bp,1284.0,Egg whites with avocado,Grilled tofu with spinach,Steamed vegetables with grilled chicken
+43,44,199,1.375,high_bp,1813.28,Egg whites with avocado,Grilled tofu with spinach,Lentil soup with whole-grain
+57,107,184,1.55,diabetic,2766.75,Boiled eggs with avocado,Steamed fish with greens,Lentil soup with whole-grain bread
+34,51,149,1.2,liver_disease,1345.5,Smoothie with chia seeds,Vegetable soup with whole-grain bread,Grilled fish with quinoa
+39,110,196,1.9,liver_disease,3762.0,Boiled oats with almond milk,Boiled chicken with steamed rice,Grilled fish with quinoa
+20,53,196,1.725,liver_disease,2596.12,Vegetable omelette,Boiled chicken with steamed rice,Baked veggies with lean protein
+58,102,171,1.55,healthy,2795.81,Scrambled eggs with toast,Quinoa salad with avocado,Grilled chicken with sweet potatoes
+28,60,156,1.55,liver_disease,1991.75,Boiled oats with almond milk,Boiled chicken with steamed rice,Vegetable stew with rice
+64,97,191,1.375,diabetic,2328.91,Oatmeal with chia seeds,Boiled chicken with veggies,Lentil soup with whole-grain bread
+62,92,142,1.55,liver_disease,2088.62,Smoothie with chia seeds,Boiled chicken with steamed rice,Vegetable stew with rice
+47,74,181,1.375,diabetic,2043.59,Oatmeal with chia seeds,Steamed fish with greens,Grilled fish with steamed greens
+29,50,168,1.375,liver_disease,1725.62,Boiled oats with almond milk,Vegetable soup with whole-grain bread,Grilled fish with quinoa
+50,105,184,1.55,liver_disease,2790.0,Boiled oats with almond milk,Boiled chicken with steamed rice,Baked veggies with lean protein
+46,97,160,1.725,healthy,3010.12,Greek yogurt with honey,Quinoa salad with avocado,Grilled chicken with sweet potatoes
+28,83,191,1.55,high_bp,2687.31,Egg whites with avocado,Grilled tofu with spinach,Steamed vegetables with grilled chicken
+52,63,167,1.375,high_bp,1737.66,Whole-grain toast with peanut butter,Chicken salad with olive oil,Lentil soup with whole-grain
+62,63,177,1.375,diabetic,1754.84,Oatmeal with chia seeds,Quinoa salad with tofu,Lentil soup with whole-grain bread
+27,95,188,1.375,diabetic,2530.0,Boiled eggs with avocado,Steamed fish with greens,Steamed veggies with tofu
+39,57,193,1.725,diabetic,2468.91,Low-sugar smoothie,Steamed fish with greens,Lentil soup with whole-grain bread
+44,80,148,1.55,high_bp,2100.25,Egg whites with avocado,Chicken salad with olive oil,Steamed vegetables with grilled chicken
+54,119,165,1.725,diabetic,3107.16,Oatmeal with chia seeds,Quinoa salad with tofu,Steamed veggies with tofu
+27,92,193,1.375,healthy,2744.84,Greek yogurt with honey,Turkey sandwich,Vegetable stir fry
+38,65,142,1.9,diabetic,2275.25,Oatmeal with chia seeds,Boiled chicken with veggies,Steamed veggies with tofu
+60,65,150,1.725,high_bp,1962.19,Egg whites with avocado,Steamed fish with brown rice,Lentil soup with whole-grain
+18,74,146,1.725,liver_disease,2436.56,Vegetable omelette,Vegetable soup with whole-grain bread,Grilled fish with quinoa
+28,71,152,1.725,liver_disease,2363.25,Smoothie with chia seeds,Boiled chicken with steamed rice,Baked veggies with lean protein
+28,54,144,1.2,healthy,1566.0,Scrambled eggs with toast,Turkey sandwich,Vegetable stir fry
+27,119,195,1.9,diabetic,4035.12,Low-sugar smoothie,Boiled chicken with veggies,Lentil soup with whole-grain bread
+36,99,157,1.9,high_bp,3118.38,Banana smoothie,Chicken salad with olive oil,Steamed vegetables with grilled chicken
+40,57,171,1.375,healthy,1985.16,Scrambled eggs with toast,Grilled chicken with veggies,Grilled chicken with sweet potatoes
+61,41,189,1.375,healthy,1775.47,Greek yogurt with honey,Turkey sandwich,Baked salmon with quinoa
+25,55,169,1.375,healthy,2043.59,Scrambled eggs with toast,Turkey sandwich,Vegetable stir fry
+52,117,149,1.55,diabetic,2621.44,Boiled eggs with avocado,Quinoa salad with tofu,Grilled fish with steamed greens
+23,64,197,1.2,healthy,2113.5,Oatmeal with fruits,Grilled chicken with veggies,Baked salmon with quinoa
+44,82,182,1.375,diabetic,2182.81,Low-sugar smoothie,Steamed fish with greens,Grilled fish with steamed greens
+33,119,172,1.55,healthy,3262.75,Greek yogurt with honey,Turkey sandwich,Baked salmon with quinoa
+18,105,175,1.375,liver_disease,2617.66,Vegetable omelette,Vegetable soup with whole-grain bread,Vegetable stew with rice
+24,96,193,1.2,liver_disease,2275.5,Boiled oats with almond milk,Boiled chicken with steamed rice,Vegetable stew with rice
+19,89,193,1.2,diabetic,2221.5,Low-sugar smoothie,Boiled chicken with veggies,Lentil soup with whole-grain bread
+59,71,187,1.725,healthy,2740.59,Oatmeal with fruits,Grilled chicken with veggies,Vegetable stir fry
+56,102,143,1.2,liver_disease,1780.5,Boiled oats with almond milk,Grilled fish with steamed greens,Vegetable stew with rice
+63,49,149,1.9,liver_disease,1816.88,Smoothie with chia seeds,Boiled chicken with steamed rice,Baked veggies with lean protein
+18,90,160,1.375,healthy,2495.62,Scrambled eggs with toast,Turkey sandwich,Grilled chicken with sweet potatoes
+25,47,171,1.2,liver_disease,1516.5,Vegetable omelette,Vegetable soup with whole-grain bread,Grilled fish with quinoa
+21,75,148,1.725,liver_disease,2449.5,Vegetable omelette,Boiled chicken with steamed rice,Vegetable stew with rice
+20,60,188,1.9,liver_disease,2897.5,Boiled oats with almond milk,Boiled chicken with steamed rice,Baked veggies with lean protein
+20,81,190,1.55,high_bp,2708.62,Egg whites with avocado,Steamed fish with brown rice,Lentil soup with whole-grain
+60,44,147,1.9,liver_disease,1726.62,Boiled oats with almond milk,Boiled chicken with steamed rice,Baked veggies with lean protein
+55,118,158,1.725,healthy,3273.19,Greek yogurt with honey,Quinoa salad with avocado,Vegetable stir fry
+50,112,166,1.375,liver_disease,2416.56,Vegetable omelette,Vegetable soup with whole-grain bread,Grilled fish with quinoa
+48,93,167,1.725,diabetic,2731.97,Oatmeal with chia seeds,Quinoa salad with tofu,Steamed veggies with tofu
+20,74,200,1.2,diabetic,2088.0,Boiled eggs with avocado,Boiled chicken with veggies,Steamed veggies with tofu
+38,78,169,1.375,high_bp,2057.34,Whole-grain toast with peanut butter,Chicken salad with olive oil,Steamed vegetables with grilled chicken
+48,57,150,1.9,diabetic,2123.25,Low-sugar smoothie,Quinoa salad with tofu,Grilled fish with steamed greens
+26,90,143,1.2,high_bp,1816.5,Egg whites with avocado,Grilled tofu with spinach,Lentil soup with whole-grain
+47,68,197,1.375,liver_disease,2098.59,Boiled oats with almond milk,Boiled chicken with steamed rice,Grilled fish with quinoa
+65,99,150,1.2,high_bp,1743.0,Whole-grain toast with peanut butter,Steamed fish with brown rice,Lentil soup with whole-grain
+55,66,195,1.725,diabetic,2507.72,Oatmeal with chia seeds,Quinoa salad with tofu,Lentil soup with whole-grain bread
+43,85,179,1.375,high_bp,2205.16,Whole-grain toast with peanut butter,Chicken salad with olive oil,Vegetable curry with rice
+41,75,198,1.55,high_bp,2530.38,Banana smoothie,Chicken salad with olive oil,Steamed vegetables with grilled chicken
+20,70,150,1.55,diabetic,2150.62,Boiled eggs with avocado,Boiled chicken with veggies,Grilled fish with steamed greens
+55,101,174,1.2,diabetic,2007.0,Boiled eggs with avocado,Steamed fish with greens,Lentil soup with whole-grain bread
+45,59,199,1.9,diabetic,2771.62,Boiled eggs with avocado,Steamed fish with greens,Steamed veggies with tofu
+31,51,145,1.55,healthy,1962.69,Greek yogurt with honey,Grilled chicken with veggies,Grilled chicken with sweet potatoes
+53,102,177,1.9,liver_disease,3251.38,Boiled oats with almond milk,Boiled chicken with steamed rice,Baked veggies with lean protein
+51,85,184,1.2,healthy,2100.0,Greek yogurt with honey,Quinoa salad with avocado,Vegetable stir fry
+39,46,158,1.375,liver_disease,1515.94,Smoothie with chia seeds,Grilled fish with steamed greens,Grilled fish with quinoa
+58,75,177,1.375,diabetic,1947.34,Low-sugar smoothie,Steamed fish with greens,Steamed veggies with tofu
+39,58,198,1.375,healthy,2237.81,Greek yogurt with honey,Grilled chicken with veggies,Vegetable stir fry
+42,108,146,1.9,liver_disease,3101.75,Vegetable omelette,Vegetable soup with whole-grain bread,Baked veggies with lean protein
+63,81,142,1.2,diabetic,1479.0,Low-sugar smoothie,Boiled chicken with veggies,Grilled fish with steamed greens
+19,76,147,1.2,high_bp,1720.5,Whole-grain toast with peanut butter,Steamed fish with brown rice,Lentil soup with whole-grain
+30,81,170,1.2,healthy,2073.0,Oatmeal with fruits,Grilled chicken with veggies,Vegetable stir fry
+52,50,195,1.55,liver_disease,2028.56,Smoothie with chia seeds,Grilled fish with steamed greens,Vegetable stew with rice
+44,110,197,1.725,liver_disease,3383.16,Vegetable omelette,Vegetable soup with whole-grain bread,Grilled fish with quinoa
+64,109,141,1.9,high_bp,2852.38,Banana smoothie,Steamed fish with brown rice,Steamed vegetables with grilled chicken
+18,109,159,1.9,high_bp,3503.12,Whole-grain toast with peanut butter,Chicken salad with olive oil,Vegetable curry with rice
+24,90,148,1.375,liver_disease,2138.12,Smoothie with chia seeds,Grilled fish with steamed greens,Vegetable stew with rice
+22,100,197,1.9,healthy,4039.88,Scrambled eggs with toast,Quinoa salad with avocado,Grilled chicken with sweet potatoes
+40,41,194,1.55,high_bp,1972.38,Egg whites with avocado,Steamed fish with brown rice,Vegetable curry with rice
+32,69,143,1.375,diabetic,1751.41,Boiled eggs with avocado,Steamed fish with greens,Steamed veggies with tofu
+51,118,163,1.375,high_bp,2466.41,Banana smoothie,Steamed fish with brown rice,Lentil soup with whole-grain
+65,116,157,1.375,high_bp,2291.09,Egg whites with avocado,Grilled tofu with spinach,Steamed vegetables with grilled chicken
+49,67,152,1.725,liver_disease,2113.12,Boiled oats with almond milk,Boiled chicken with steamed rice,Vegetable stew with rice
+48,107,193,1.725,liver_disease,3253.78,Smoothie with chia seeds,Grilled fish with steamed greens,Vegetable stew with rice
+59,105,147,1.375,liver_disease,2095.16,Boiled oats with almond milk,Grilled fish with steamed greens,Grilled fish with quinoa
+30,100,141,1.9,liver_disease,3004.38,Boiled oats with almond milk,Boiled chicken with steamed rice,Baked veggies with lean protein
+56,45,150,1.375,healthy,1529.69,Oatmeal with fruits,Quinoa salad with avocado,Baked salmon with quinoa
+34,44,179,1.55,liver_disease,1920.06,Smoothie with chia seeds,Vegetable soup with whole-grain bread,Grilled fish with quinoa
+62,76,185,1.375,high_bp,2002.34,Banana smoothie,Grilled tofu with spinach,Lentil soup with whole-grain
+46,106,200,1.375,high_bp,2653.75,Banana smoothie,Steamed fish with brown rice,Lentil soup with whole-grain
+64,46,200,1.2,liver_disease,1488.0,Smoothie with chia seeds,Boiled chicken with steamed rice,Baked veggies with lean protein
+60,42,188,1.375,liver_disease,1574.38,Smoothie with chia seeds,Grilled fish with steamed greens,Grilled fish with quinoa
+42,112,157,1.9,liver_disease,3308.38,Boiled oats with almond milk,Grilled fish with steamed greens,Baked veggies with lean protein
+39,120,152,1.9,high_bp,3429.5,Whole-grain toast with peanut butter,Chicken salad with olive oil,Lentil soup with whole-grain
+64,112,186,1.375,liver_disease,2492.19,Vegetable omelette,Grilled fish with steamed greens,Grilled fish with quinoa
+56,93,180,1.55,liver_disease,2518.75,Smoothie with chia seeds,Grilled fish with steamed greens,Vegetable stew with rice
+21,50,186,1.55,high_bp,2181.62,Whole-grain toast with peanut butter,Steamed fish with brown rice,Vegetable curry with rice
+42,71,161,1.9,liver_disease,2576.88,Smoothie with chia seeds,Boiled chicken with steamed rice,Grilled fish with quinoa
+62,47,159,1.55,healthy,1796.06,Oatmeal with fruits,Grilled chicken with veggies,Grilled chicken with sweet potatoes
+56,84,189,1.2,liver_disease,1909.5,Vegetable omelette,Boiled chicken with steamed rice,Grilled fish with quinoa
+58,87,158,1.375,healthy,2162.19,Greek yogurt with honey,Quinoa salad with avocado,Vegetable stir fry
+22,101,185,1.725,healthy,3555.66,Scrambled eggs with toast,Turkey sandwich,Vegetable stir fry
+62,85,162,1.375,liver_disease,1928.44,Smoothie with chia seeds,Boiled chicken with steamed rice,Baked veggies with lean protein
+58,84,195,1.725,diabetic,2792.34,Oatmeal with chia seeds,Steamed fish with greens,Steamed veggies with tofu
+21,94,199,1.725,high_bp,3327.09,Egg whites with avocado,Steamed fish with brown rice,Steamed vegetables with grilled chicken
+56,103,200,1.375,liver_disease,2543.75,Boiled oats with almond milk,Boiled chicken with steamed rice,Vegetable stew with rice
+63,40,144,1.725,high_bp,1440.38,Banana smoothie,Steamed fish with brown rice,Lentil soup with whole-grain
+58,69,153,1.55,high_bp,1869.69,Banana smoothie,Steamed fish with brown rice,Lentil soup with whole-grain
+63,114,163,1.375,healthy,2542.03,Scrambled eggs with toast,Grilled chicken with veggies,Vegetable stir fry
+52,69,144,1.9,liver_disease,2242.0,Boiled oats with almond milk,Grilled fish with steamed greens,Vegetable stew with rice
+26,53,183,1.55,high_bp,2160.31,Banana smoothie,Grilled tofu with spinach,Vegetable curry with rice
+50,107,186,1.2,liver_disease,2199.0,Vegetable omelette,Vegetable soup with whole-grain bread,Grilled fish with quinoa
+42,103,158,1.725,diabetic,2859.19,Boiled eggs with avocado,Boiled chicken with veggies,Grilled fish with steamed greens
+63,116,162,1.2,liver_disease,2049.0,Vegetable omelette,Grilled fish with steamed greens,Vegetable stew with rice
+18,118,142,1.375,healthy,2725.94,Scrambled eggs with toast,Turkey sandwich,Grilled chicken with sweet potatoes
+34,106,189,1.725,high_bp,3314.16,Banana smoothie,Steamed fish with brown rice,Steamed vegetables with grilled chicken
+32,73,168,1.9,high_bp,2793.0,Banana smoothie,Grilled tofu with spinach,Vegetable curry with rice
+40,114,143,1.725,healthy,3171.84,Oatmeal with fruits,Grilled chicken with veggies,Grilled chicken with sweet potatoes
+59,42,176,1.9,high_bp,2042.5,Whole-grain toast with peanut butter,Steamed fish with brown rice,Steamed vegetables with grilled chicken
+31,93,146,1.375,healthy,2327.19,Scrambled eggs with toast,Grilled chicken with veggies,Baked salmon with quinoa
+57,62,165,1.375,liver_disease,1672.34,Vegetable omelette,Vegetable soup with whole-grain bread,Vegetable stew with rice
+40,75,199,1.55,high_bp,2547.81,Whole-grain toast with peanut butter,Chicken salad with olive oil,Steamed vegetables with grilled chicken
+60,45,162,1.9,healthy,2218.25,Greek yogurt with honey,Turkey sandwich,Vegetable stir fry
+55,46,178,1.2,liver_disease,1377.0,Smoothie with chia seeds,Grilled fish with steamed greens,Vegetable stew with rice
+61,112,175,1.375,high_bp,2418.28,Banana smoothie,Steamed fish with brown rice,Vegetable curry with rice
+48,57,177,1.9,healthy,2738.38,Scrambled eggs with toast,Quinoa salad with avocado,Vegetable stir fry
+54,51,169,1.375,high_bp,1576.09,Banana smoothie,Grilled tofu with spinach,Vegetable curry with rice
+43,104,196,1.9,healthy,3904.5,Greek yogurt with honey,Grilled chicken with veggies,Vegetable stir fry
+49,62,157,1.375,diabetic,1658.59,Low-sugar smoothie,Steamed fish with greens,Lentil soup with whole-grain bread
+53,119,194,1.375,liver_disease,2732.81,Smoothie with chia seeds,Boiled chicken with steamed rice,Grilled fish with quinoa
+26,71,198,1.725,healthy,3143.81,Scrambled eggs with toast,Quinoa salad with avocado,Vegetable stir fry
+47,82,150,1.2,liver_disease,1647.0,Vegetable omelette,Vegetable soup with whole-grain bread,Baked veggies with lean protein
+29,81,172,1.55,healthy,2704.75,Scrambled eggs with toast,Turkey sandwich,Baked salmon with quinoa
+62,41,171,1.375,high_bp,1400.78,Whole-grain toast with peanut butter,Grilled tofu with spinach,Lentil soup with whole-grain
+39,108,182,1.725,healthy,3497.44,Oatmeal with fruits,Turkey sandwich,Vegetable stir fry
+22,103,156,1.55,high_bp,2704.75,Egg whites with avocado,Grilled tofu with spinach,Lentil soup with whole-grain
+60,73,170,1.725,diabetic,2315.81,Boiled eggs with avocado,Boiled chicken with veggies,Steamed veggies with tofu
+56,67,155,1.9,high_bp,2296.62,Whole-grain toast with peanut butter,Steamed fish with brown rice,Steamed vegetables with grilled chicken
+25,76,193,1.725,high_bp,2917.41,Whole-grain toast with peanut butter,Steamed fish with brown rice,Lentil soup with whole-grain
+31,67,145,1.9,high_bp,2415.38,Banana smoothie,Steamed fish with brown rice,Vegetable curry with rice
+54,42,145,1.375,diabetic,1246.09,Oatmeal with chia seeds,Steamed fish with greens,Steamed veggies with tofu
+32,76,184,1.375,liver_disease,2200.0,Vegetable omelette,Grilled fish with steamed greens,Grilled fish with quinoa
+47,96,189,1.9,liver_disease,3336.88,Boiled oats with almond milk,Grilled fish with steamed greens,Baked veggies with lean protein
+42,113,146,1.375,liver_disease,2313.44,Boiled oats with almond milk,Vegetable soup with whole-grain bread,Baked veggies with lean protein
+20,111,190,1.725,healthy,3799.31,Oatmeal with fruits,Turkey sandwich,Vegetable stir fry
+33,66,166,1.9,diabetic,2626.75,Boiled eggs with avocado,Boiled chicken with veggies,Steamed veggies with tofu
+47,55,165,1.9,liver_disease,2272.88,Vegetable omelette,Vegetable soup with whole-grain bread,Vegetable stew with rice
+41,76,182,1.375,liver_disease,2120.94,Smoothie with chia seeds,Boiled chicken with steamed rice,Baked veggies with lean protein
+25,61,168,1.55,liver_disease,2146.75,Vegetable omelette,Boiled chicken with steamed rice,Baked veggies with lean protein
+40,97,183,1.2,high_bp,2116.5,Whole-grain toast with peanut butter,Chicken salad with olive oil,Steamed vegetables with grilled chicken
+44,95,179,1.375,high_bp,2335.78,Whole-grain toast with peanut butter,Steamed fish with brown rice,Lentil soup with whole-grain
+28,71,155,1.725,diabetic,2395.59,Oatmeal with chia seeds,Steamed fish with greens,Lentil soup with whole-grain bread
+60,65,194,1.2,healthy,1881.0,Oatmeal with fruits,Turkey sandwich,Vegetable stir fry
+41,111,159,1.2,diabetic,2098.5,Low-sugar smoothie,Boiled chicken with veggies,Steamed veggies with tofu
+48,62,158,1.55,high_bp,1887.12,Egg whites with avocado,Steamed fish with brown rice,Vegetable curry with rice
+63,83,148,1.9,liver_disease,2451.0,Vegetable omelette,Vegetable soup with whole-grain bread,Baked veggies with lean protein
+27,64,173,1.375,diabetic,1974.84,Oatmeal with chia seeds,Quinoa salad with tofu,Steamed veggies with tofu
+62,114,188,1.9,liver_disease,3524.5,Boiled oats with almond milk,Vegetable soup with whole-grain bread,Baked veggies with lean protein
+65,62,194,1.55,liver_disease,2104.12,Vegetable omelette,Grilled fish with steamed greens,Grilled fish with quinoa
+26,89,180,1.375,healthy,2598.75,Oatmeal with fruits,Quinoa salad with avocado,Baked salmon with quinoa
+23,60,169,1.9,healthy,2937.88,Oatmeal with fruits,Quinoa salad with avocado,Baked salmon with quinoa
+54,70,145,1.725,healthy,2313.66,Scrambled eggs with toast,Grilled chicken with veggies,Grilled chicken with sweet potatoes
+47,40,147,1.2,liver_disease,1120.5,Vegetable omelette,Vegetable soup with whole-grain bread,Vegetable stew with rice
+48,50,154,1.375,liver_disease,1474.69,Vegetable omelette,Boiled chicken with steamed rice,Baked veggies with lean protein
+21,113,196,1.9,diabetic,3990.0,Low-sugar smoothie,Quinoa salad with tofu,Lentil soup with whole-grain bread
+37,108,187,1.2,high_bp,2296.5,Whole-grain toast with peanut butter,Chicken salad with olive oil,Vegetable curry with rice
+49,104,169,1.2,high_bp,2041.5,Egg whites with avocado,Chicken salad with olive oil,Lentil soup with whole-grain
+25,56,151,1.725,healthy,2386.97,Oatmeal with fruits,Quinoa salad with avocado,Vegetable stir fry
+22,60,150,1.375,high_bp,1756.56,Banana smoothie,Chicken salad with olive oil,Vegetable curry with rice
+30,49,165,1.375,diabetic,1679.22,Oatmeal with chia seeds,Boiled chicken with veggies,Steamed veggies with tofu
+43,59,173,1.9,healthy,2776.38,Greek yogurt with honey,Turkey sandwich,Grilled chicken with sweet potatoes
+22,71,156,1.725,diabetic,2458.12,Low-sugar smoothie,Boiled chicken with veggies,Steamed veggies with tofu
+36,81,185,1.725,liver_disease,2822.53,Smoothie with chia seeds,Grilled fish with steamed greens,Baked veggies with lean protein
+24,52,174,1.55,healthy,2313.38,Greek yogurt with honey,Turkey sandwich,Grilled chicken with sweet potatoes
+38,88,154,1.375,high_bp,2065.94,Banana smoothie,Grilled tofu with spinach,Vegetable curry with rice
+20,97,167,1.725,liver_disease,3042.47,Smoothie with chia seeds,Boiled chicken with steamed rice,Grilled fish with quinoa
+60,82,162,1.55,healthy,2383.12,Scrambled eggs with toast,Turkey sandwich,Baked salmon with quinoa
+47,98,186,1.375,healthy,2629.69,Oatmeal with fruits,Turkey sandwich,Grilled chicken with sweet potatoes
+50,53,144,1.55,diabetic,1596.5,Low-sugar smoothie,Quinoa salad with tofu,Steamed veggies with tofu
+29,44,200,1.55,liver_disease,2162.25,Boiled oats with almond milk,Vegetable soup with whole-grain bread,Vegetable stew with rice
+46,65,174,1.375,liver_disease,1866.56,Smoothie with chia seeds,Boiled chicken with steamed rice,Baked veggies with lean protein
+60,74,189,1.2,healthy,1951.5,Greek yogurt with honey,Turkey sandwich,Grilled chicken with sweet potatoes
+44,68,160,1.2,diabetic,1572.0,Boiled eggs with avocado,Steamed fish with greens,Grilled fish with steamed greens
+49,84,157,1.375,high_bp,1961.09,Whole-grain toast with peanut butter,Grilled tofu with spinach,Steamed vegetables with grilled chicken
+46,55,163,1.9,diabetic,2258.62,Oatmeal with chia seeds,Steamed fish with greens,Steamed veggies with tofu
+29,116,178,1.55,diabetic,3065.12,Oatmeal with chia seeds,Steamed fish with greens,Lentil soup with whole-grain bread
+51,107,198,1.9,healthy,3909.25,Greek yogurt with honey,Grilled chicken with veggies,Vegetable stir fry
+60,83,171,1.375,liver_disease,1992.03,Smoothie with chia seeds,Grilled fish with steamed greens,Baked veggies with lean protein
+64,70,199,1.375,high_bp,2026.41,Banana smoothie,Grilled tofu with spinach,Steamed vegetables with grilled chicken
+47,41,146,1.9,liver_disease,1781.25,Smoothie with chia seeds,Boiled chicken with steamed rice,Grilled fish with quinoa
+27,53,174,1.375,liver_disease,1832.19,Vegetable omelette,Vegetable soup with whole-grain bread,Vegetable stew with rice
+23,62,195,1.725,high_bp,2714.72,Whole-grain toast with peanut butter,Chicken salad with olive oil,Vegetable curry with rice
+38,105,168,1.9,healthy,3638.5,Greek yogurt with honey,Quinoa salad with avocado,Vegetable stir fry
+54,112,148,1.375,healthy,2447.5,Greek yogurt with honey,Quinoa salad with avocado,Grilled chicken with sweet potatoes
+58,89,180,1.9,liver_disease,2992.5,Vegetable omelette,Boiled chicken with steamed rice,Baked veggies with lean protein
+42,66,196,1.375,liver_disease,2096.88,Smoothie with chia seeds,Grilled fish with steamed greens,Grilled fish with quinoa
+22,90,153,1.725,liver_disease,2753.53,Smoothie with chia seeds,Boiled chicken with steamed rice,Baked veggies with lean protein
+45,50,175,1.55,liver_disease,1889.06,Vegetable omelette,Vegetable soup with whole-grain bread,Vegetable stew with rice
+65,67,178,1.725,high_bp,2255.44,Whole-grain toast with peanut butter,Chicken salad with olive oil,Steamed vegetables with grilled chicken
+18,74,143,1.725,liver_disease,2404.22,Smoothie with chia seeds,Grilled fish with steamed greens,Vegetable stew with rice
+28,114,193,1.375,liver_disease,2827.34,Boiled oats with almond milk,Vegetable soup with whole-grain bread,Vegetable stew with rice
+56,54,190,1.375,diabetic,1784.06,Oatmeal with chia seeds,Quinoa salad with tofu,Steamed veggies with tofu
+65,89,159,1.55,high_bp,2183.56,Egg whites with avocado,Chicken salad with olive oil,Vegetable curry with rice
+62,115,183,1.2,liver_disease,2200.5,Smoothie with chia seeds,Boiled chicken with steamed rice,Baked veggies with lean protein
+57,106,190,1.375,high_bp,2492.19,Banana smoothie,Chicken salad with olive oil,Steamed vegetables with grilled chicken
+27,92,191,1.9,diabetic,3474.62,Low-sugar smoothie,Quinoa salad with tofu,Lentil soup with whole-grain bread
+30,46,184,1.725,liver_disease,2259.75,Boiled oats with almond milk,Vegetable soup with whole-grain bread,Grilled fish with quinoa
+45,120,154,1.725,diabetic,3083.44,Boiled eggs with avocado,Boiled chicken with veggies,Steamed veggies with tofu
+25,114,142,1.55,high_bp,2716.38,Egg whites with avocado,Steamed fish with brown rice,Steamed vegetables with grilled chicken
+38,75,169,1.375,high_bp,2016.09,Whole-grain toast with peanut butter,Chicken salad with olive oil,Vegetable curry with rice
+47,56,147,1.725,diabetic,1886.72,Boiled eggs with avocado,Quinoa salad with tofu,Lentil soup with whole-grain bread
+58,116,143,1.2,high_bp,1936.5,Banana smoothie,Grilled tofu with spinach,Vegetable curry with rice
+24,106,179,1.55,high_bp,2958.56,Egg whites with avocado,Chicken salad with olive oil,Vegetable curry with rice
+26,110,153,1.725,high_bp,3064.03,Whole-grain toast with peanut butter,Chicken salad with olive oil,Vegetable curry with rice
+25,117,150,1.55,liver_disease,2840.38,Vegetable omelette,Grilled fish with steamed greens,Baked veggies with lean protein
+64,73,198,1.9,diabetic,2845.25,Oatmeal with chia seeds,Boiled chicken with veggies,Lentil soup with whole-grain bread
+36,58,180,1.9,liver_disease,2612.5,Smoothie with chia seeds,Boiled chicken with steamed rice,Grilled fish with quinoa
+31,55,170,1.9,high_bp,2484.25,Whole-grain toast with peanut butter,Grilled tofu with spinach,Steamed vegetables with grilled chicken
+56,108,165,1.55,healthy,2846.19,Scrambled eggs with toast,Turkey sandwich,Baked salmon with quinoa
+21,83,190,1.725,high_bp,3040.31,Egg whites with avocado,Chicken salad with olive oil,Lentil soup with whole-grain
+46,92,172,1.2,healthy,2124.0,Oatmeal with fruits,Grilled chicken with veggies,Vegetable stir fry
+50,110,147,1.2,diabetic,1942.5,Boiled eggs with avocado,Boiled chicken with veggies,Lentil soup with whole-grain bread
+25,79,165,1.725,healthy,2934.66,Oatmeal with fruits,Turkey sandwich,Baked salmon with quinoa
+36,111,199,1.375,liver_disease,2782.66,Smoothie with chia seeds,Vegetable soup with whole-grain bread,Baked veggies with lean protein
+56,53,166,1.2,healthy,1551.0,Greek yogurt with honey,Turkey sandwich,Baked salmon with quinoa
+53,103,163,1.2,healthy,2146.5,Oatmeal with fruits,Turkey sandwich,Grilled chicken with sweet potatoes
+30,105,168,1.2,diabetic,2160.0,Low-sugar smoothie,Boiled chicken with veggies,Lentil soup with whole-grain bread
+34,80,171,1.725,diabetic,2671.59,Low-sugar smoothie,Steamed fish with greens,Lentil soup with whole-grain bread
+30,109,157,1.2,healthy,2311.5,Scrambled eggs with toast,Turkey sandwich,Baked salmon with quinoa
+65,83,159,1.55,healthy,2330.81,Scrambled eggs with toast,Grilled chicken with veggies,Vegetable stir fry
+23,49,178,1.55,high_bp,2073.12,Egg whites with avocado,Steamed fish with brown rice,Lentil soup with whole-grain
+60,102,179,1.9,healthy,3503.12,Oatmeal with fruits,Quinoa salad with avocado,Vegetable stir fry
+64,75,165,1.55,liver_disease,2032.44,Boiled oats with almond milk,Boiled chicken with steamed rice,Vegetable stew with rice
+30,107,159,1.2,healthy,2302.5,Scrambled eggs with toast,Quinoa salad with avocado,Baked salmon with quinoa
+51,67,190,1.2,high_bp,1743.0,Whole-grain toast with peanut butter,Steamed fish with brown rice,Vegetable curry with rice
+64,119,152,1.9,high_bp,3173.0,Banana smoothie,Grilled tofu with spinach,Steamed vegetables with grilled chicken
+25,57,154,1.9,diabetic,2389.25,Low-sugar smoothie,Steamed fish with greens,Steamed veggies with tofu
+40,94,199,1.55,diabetic,2842.31,Oatmeal with chia seeds,Quinoa salad with tofu,Lentil soup with whole-grain bread
+45,109,142,1.55,healthy,2724.12,Greek yogurt with honey,Quinoa salad with avocado,Grilled chicken with sweet potatoes
+48,43,160,1.55,diabetic,1612.0,Boiled eggs with avocado,Boiled chicken with veggies,Grilled fish with steamed greens
+51,95,170,1.2,diabetic,1929.0,Oatmeal with chia seeds,Quinoa salad with tofu,Steamed veggies with tofu
+44,89,184,1.2,liver_disease,2004.0,Boiled oats with almond milk,Vegetable soup with whole-grain bread,Grilled fish with quinoa
+41,68,153,1.375,high_bp,1761.72,Egg whites with avocado,Chicken salad with olive oil,Vegetable curry with rice
+64,99,175,1.55,high_bp,2501.31,Egg whites with avocado,Steamed fish with brown rice,Lentil soup with whole-grain
+26,66,170,1.375,liver_disease,1983.44,Smoothie with chia seeds,Boiled chicken with steamed rice,Grilled fish with quinoa
+23,40,188,1.375,high_bp,1801.25,Egg whites with avocado,Chicken salad with olive oil,Lentil soup with whole-grain
+58,56,156,1.375,healthy,1718.75,Greek yogurt with honey,Turkey sandwich,Grilled chicken with sweet potatoes
+47,101,148,1.375,healthy,2344.38,Scrambled eggs with toast,Turkey sandwich,Grilled chicken with sweet potatoes
+59,97,189,1.9,liver_disease,3241.88,Boiled oats with almond milk,Boiled chicken with steamed rice,Grilled fish with quinoa
+51,44,194,1.2,liver_disease,1497.0,Boiled oats with almond milk,Boiled chicken with steamed rice,Vegetable stew with rice
+35,41,165,1.9,high_bp,2120.88,Whole-grain toast with peanut butter,Chicken salad with olive oil,Lentil soup with whole-grain
+21,88,160,1.2,high_bp,1950.0,Banana smoothie,Steamed fish with brown rice,Lentil soup with whole-grain
+59,62,190,1.55,liver_disease,2111.88,Vegetable omelette,Boiled chicken with steamed rice,Vegetable stew with rice
+52,112,159,1.2,diabetic,2044.5,Oatmeal with chia seeds,Boiled chicken with veggies,Grilled fish with steamed greens
+18,66,188,1.55,diabetic,2472.25,Oatmeal with chia seeds,Steamed fish with greens,Steamed veggies with tofu
+64,87,189,1.55,healthy,2691.19,Greek yogurt with honey,Quinoa salad with avocado,Vegetable stir fry
+48,47,193,1.55,high_bp,1993.69,Egg whites with avocado,Grilled tofu with spinach,Vegetable curry with rice
+43,67,189,1.2,healthy,1969.5,Oatmeal with fruits,Grilled chicken with veggies,Vegetable stir fry
+18,103,170,1.2,healthy,2409.0,Oatmeal with fruits,Turkey sandwich,Grilled chicken with sweet potatoes
+31,93,145,1.55,high_bp,2373.44,Egg whites with avocado,Chicken salad with olive oil,Steamed vegetables with grilled chicken
+28,114,162,1.725,liver_disease,3212.81,Smoothie with chia seeds,Boiled chicken with steamed rice,Baked veggies with lean protein
+24,77,142,1.725,healthy,2660.81,Greek yogurt with honey,Turkey sandwich,Baked salmon with quinoa
+55,45,195,1.55,high_bp,1927.81,Egg whites with avocado,Chicken salad with olive oil,Steamed vegetables with grilled chicken
+40,83,182,1.9,diabetic,3073.25,Oatmeal with chia seeds,Boiled chicken with veggies,Steamed veggies with tofu
+37,78,164,1.9,diabetic,2793.0,Boiled eggs with avocado,Quinoa salad with tofu,Lentil soup with whole-grain bread
+57,83,190,1.55,high_bp,2452.88,Whole-grain toast with peanut butter,Grilled tofu with spinach,Steamed vegetables with grilled chicken
+19,80,183,1.2,high_bp,2038.5,Banana smoothie,Grilled tofu with spinach,Lentil soup with whole-grain
+46,111,186,1.725,liver_disease,3264.56,Boiled oats with almond milk,Grilled fish with steamed greens,Vegetable stew with rice
+58,119,155,1.9,liver_disease,3265.62,Vegetable omelette,Grilled fish with steamed greens,Baked veggies with lean protein
+26,41,192,1.375,diabetic,1828.75,Boiled eggs with avocado,Boiled chicken with veggies,Steamed veggies with tofu
+49,90,191,1.9,liver_disease,3227.62,Vegetable omelette,Grilled fish with steamed greens,Vegetable stew with rice
+55,89,161,1.375,high_bp,2022.97,Banana smoothie,Steamed fish with brown rice,Lentil soup with whole-grain
+35,67,197,1.725,liver_disease,2719.03,Smoothie with chia seeds,Boiled chicken with steamed rice,Grilled fish with quinoa
+58,76,159,1.9,diabetic,2496.12,Low-sugar smoothie,Boiled chicken with veggies,Lentil soup with whole-grain bread
+54,79,146,1.9,healthy,2731.25,Scrambled eggs with toast,Grilled chicken with veggies,Grilled chicken with sweet potatoes
+26,61,153,1.725,high_bp,2218.78,Banana smoothie,Steamed fish with brown rice,Vegetable curry with rice
+45,103,164,1.725,diabetic,2898.0,Oatmeal with chia seeds,Quinoa salad with tofu,Lentil soup with whole-grain bread
+39,106,176,1.55,diabetic,2813.25,Boiled eggs with avocado,Boiled chicken with veggies,Steamed veggies with tofu
+52,62,170,1.55,diabetic,1972.38,Oatmeal with chia seeds,Quinoa salad with tofu,Lentil soup with whole-grain bread
+64,62,150,1.725,diabetic,1875.94,Low-sugar smoothie,Steamed fish with greens,Grilled fish with steamed greens
+65,41,150,1.9,high_bp,1657.75,Whole-grain toast with peanut butter,Steamed fish with brown rice,Vegetable curry with rice
+53,89,195,1.9,high_bp,3218.12,Banana smoothie,Steamed fish with brown rice,Lentil soup with whole-grain
+64,63,170,1.375,high_bp,1680.94,Banana smoothie,Chicken salad with olive oil,Vegetable curry with rice
+34,76,188,1.9,high_bp,3068.5,Banana smoothie,Chicken salad with olive oil,Lentil soup with whole-grain
+27,55,200,1.375,liver_disease,2083.12,Vegetable omelette,Boiled chicken with steamed rice,Baked veggies with lean protein
+31,62,190,1.55,healthy,2569.12,Oatmeal with fruits,Grilled chicken with veggies,Vegetable stir fry
+34,60,200,1.9,high_bp,2907.0,Whole-grain toast with peanut butter,Grilled tofu with spinach,Steamed vegetables with grilled chicken
+27,80,146,1.375,diabetic,1962.81,Oatmeal with chia seeds,Steamed fish with greens,Steamed veggies with tofu
+19,46,165,1.9,liver_disease,2367.88,Vegetable omelette,Grilled fish with steamed greens,Baked veggies with lean protein
+63,73,196,1.55,high_bp,2309.5,Banana smoothie,Chicken salad with olive oil,Lentil soup with whole-grain
+21,57,157,1.55,healthy,2249.44,Scrambled eggs with toast,Quinoa salad with avocado,Baked salmon with quinoa
+56,58,190,1.375,liver_disease,1839.06,Boiled oats with almond milk,Boiled chicken with steamed rice,Baked veggies with lean protein
+56,56,173,1.9,diabetic,2301.38,Boiled eggs with avocado,Quinoa salad with tofu,Grilled fish with steamed greens
+33,62,152,1.55,liver_disease,1945.25,Boiled oats with almond milk,Grilled fish with steamed greens,Baked veggies with lean protein
+55,115,168,1.375,diabetic,2440.62,Low-sugar smoothie,Boiled chicken with veggies,Grilled fish with steamed greens
+65,94,147,1.2,liver_disease,1660.5,Smoothie with chia seeds,Boiled chicken with steamed rice,Grilled fish with quinoa
+34,90,195,1.9,high_bp,3417.62,Banana smoothie,Grilled tofu with spinach,Vegetable curry with rice
+39,58,199,1.55,liver_disease,2292.06,Smoothie with chia seeds,Grilled fish with steamed greens,Baked veggies with lean protein
+18,69,189,1.375,diabetic,2242.97,Boiled eggs with avocado,Quinoa salad with tofu,Grilled fish with steamed greens
+27,58,156,1.375,healthy,1959.38,Greek yogurt with honey,Grilled chicken with veggies,Baked salmon with quinoa
+61,92,200,1.55,high_bp,2658.25,Whole-grain toast with peanut butter,Steamed fish with brown rice,Lentil soup with whole-grain
+23,91,148,1.2,healthy,2070.0,Scrambled eggs with toast,Grilled chicken with veggies,Vegetable stir fry
+35,82,144,1.375,liver_disease,1918.12,Smoothie with chia seeds,Grilled fish with steamed greens,Baked veggies with lean protein
+59,63,172,1.2,liver_disease,1512.0,Boiled oats with almond milk,Grilled fish with steamed greens,Grilled fish with quinoa
+20,79,165,1.9,high_bp,2985.38,Whole-grain toast with peanut butter,Steamed fish with brown rice,Steamed vegetables with grilled chicken
+19,70,153,1.55,liver_disease,2187.44,Boiled oats with almond milk,Grilled fish with steamed greens,Grilled fish with quinoa
+18,40,152,1.2,healthy,1518.0,Greek yogurt with honey,Grilled chicken with veggies,Grilled chicken with sweet potatoes
+48,81,191,1.9,diabetic,3066.12,Oatmeal with chia seeds,Boiled chicken with veggies,Steamed veggies with tofu
+60,91,175,1.9,healthy,3246.62,Scrambled eggs with toast,Grilled chicken with veggies,Grilled chicken with sweet potatoes
+64,75,140,1.725,healthy,2259.75,Greek yogurt with honey,Grilled chicken with veggies,Grilled chicken with sweet potatoes
+49,45,192,1.9,liver_disease,2384.5,Vegetable omelette,Vegetable soup with whole-grain bread,Grilled fish with quinoa
+62,58,188,1.55,high_bp,2007.25,Egg whites with avocado,Chicken salad with olive oil,Lentil soup with whole-grain
+37,58,189,1.375,high_bp,1961.09,Banana smoothie,Steamed fish with brown rice,Steamed vegetables with grilled chicken
+32,104,177,1.55,healthy,3086.44,Greek yogurt with honey,Quinoa salad with avocado,Baked salmon with quinoa
+59,81,154,1.375,high_bp,1825.31,Egg whites with avocado,Chicken salad with olive oil,Lentil soup with whole-grain
+52,81,182,1.2,liver_disease,1845.0,Smoothie with chia seeds,Boiled chicken with steamed rice,Baked veggies with lean protein
+23,52,146,1.725,high_bp,2013.94,Whole-grain toast with peanut butter,Grilled tofu with spinach,Steamed vegetables with grilled chicken
+54,116,152,1.375,liver_disease,2323.75,Smoothie with chia seeds,Vegetable soup with whole-grain bread,Grilled fish with quinoa
+36,42,178,1.725,high_bp,2074.31,Banana smoothie,Chicken salad with olive oil,Lentil soup with whole-grain
+50,111,174,1.375,high_bp,2471.56,Egg whites with avocado,Grilled tofu with spinach,Vegetable curry with rice
+34,106,163,1.9,diabetic,3341.62,Boiled eggs with avocado,Quinoa salad with tofu,Lentil soup with whole-grain bread
+23,95,167,1.725,diabetic,2982.09,Low-sugar smoothie,Quinoa salad with tofu,Lentil soup with whole-grain bread
+21,95,186,1.2,high_bp,2229.0,Egg whites with avocado,Steamed fish with brown rice,Lentil soup with whole-grain
+53,49,185,1.725,liver_disease,2123.91,Vegetable omelette,Vegetable soup with whole-grain bread,Grilled fish with quinoa
+42,85,186,1.375,healthy,2485.31,Scrambled eggs with toast,Turkey sandwich,Vegetable stir fry
+28,66,185,1.725,high_bp,2632.78,Whole-grain toast with peanut butter,Chicken salad with olive oil,Vegetable curry with rice
+50,93,143,1.2,diabetic,1708.5,Boiled eggs with avocado,Steamed fish with greens,Steamed veggies with tofu
+34,112,157,1.725,liver_disease,3072.66,Vegetable omelette,Grilled fish with steamed greens,Vegetable stew with rice
+54,94,187,1.375,healthy,2535.16,Scrambled eggs with toast,Quinoa salad with avocado,Baked salmon with quinoa
+51,84,183,1.9,diabetic,2999.62,Oatmeal with chia seeds,Boiled chicken with veggies,Steamed veggies with tofu
+38,47,179,1.55,liver_disease,1935.56,Vegetable omelette,Vegetable soup with whole-grain bread,Vegetable stew with rice
+32,118,198,1.375,healthy,3110.94,Oatmeal with fruits,Turkey sandwich,Grilled chicken with sweet potatoes
+57,91,160,1.55,diabetic,2286.25,Low-sugar smoothie,Steamed fish with greens,Grilled fish with steamed greens
+23,62,187,1.2,healthy,2014.5,Scrambled eggs with toast,Quinoa salad with avocado,Grilled chicken with sweet potatoes
+55,80,162,1.9,diabetic,2636.25,Boiled eggs with avocado,Boiled chicken with veggies,Steamed veggies with tofu
+45,64,191,1.375,diabetic,2005.78,Boiled eggs with avocado,Quinoa salad with tofu,Lentil soup with whole-grain bread
+31,98,159,1.55,healthy,2826.81,Greek yogurt with honey,Turkey sandwich,Grilled chicken with sweet potatoes
+38,58,140,1.9,liver_disease,2118.5,Vegetable omelette,Vegetable soup with whole-grain bread,Grilled fish with quinoa
+24,57,193,1.725,high_bp,2598.28,Banana smoothie,Grilled tofu with spinach,Steamed vegetables with grilled chicken
+31,95,161,1.2,healthy,2167.5,Scrambled eggs with toast,Grilled chicken with veggies,Vegetable stir fry
+45,79,189,1.375,liver_disease,2194.84,Smoothie with chia seeds,Grilled fish with steamed greens,Vegetable stew with rice
+30,94,152,1.9,healthy,3315.5,Oatmeal with fruits,Quinoa salad with avocado,Vegetable stir fry
+25,95,191,1.55,high_bp,2896.56,Whole-grain toast with peanut butter,Grilled tofu with spinach,Vegetable curry with rice
+62,87,165,1.375,healthy,2194.84,Scrambled eggs with toast,Quinoa salad with avocado,Grilled chicken with sweet potatoes
+59,101,168,1.55,healthy,2743.5,Greek yogurt with honey,Turkey sandwich,Baked salmon with quinoa
+35,59,146,1.375,healthy,1832.19,Scrambled eggs with toast,Quinoa salad with avocado,Baked salmon with quinoa
+21,95,177,1.375,high_bp,2476.72,Banana smoothie,Grilled tofu with spinach,Lentil soup with whole-grain
+21,57,141,1.55,high_bp,1854.19,Banana smoothie,Grilled tofu with spinach,Vegetable curry with rice
+31,72,185,1.9,diabetic,2985.38,Boiled eggs with avocado,Steamed fish with greens,Lentil soup with whole-grain bread
+60,103,140,1.2,healthy,1932.0,Oatmeal with fruits,Quinoa salad with avocado,Grilled chicken with sweet potatoes
+55,98,153,1.2,high_bp,1813.5,Banana smoothie,Grilled tofu with spinach,Steamed vegetables with grilled chicken
+57,50,196,1.725,high_bp,2225.25,Banana smoothie,Steamed fish with brown rice,Steamed vegetables with grilled chicken
+37,115,152,1.55,healthy,2976.0,Greek yogurt with honey,Grilled chicken with veggies,Vegetable stir fry
+18,69,169,1.725,healthy,2865.66,Scrambled eggs with toast,Grilled chicken with veggies,Grilled chicken with sweet potatoes
+48,86,200,1.55,diabetic,2666.0,Boiled eggs with avocado,Steamed fish with greens,Grilled fish with steamed greens
+59,50,179,1.375,liver_disease,1613.91,Boiled oats with almond milk,Boiled chicken with steamed rice,Baked veggies with lean protein
+51,77,160,1.725,healthy,2622.0,Scrambled eggs with toast,Turkey sandwich,Vegetable stir fry
+59,87,177,1.9,liver_disease,2909.38,Boiled oats with almond milk,Vegetable soup with whole-grain bread,Baked veggies with lean protein
+29,108,142,1.725,liver_disease,2885.06,Vegetable omelette,Vegetable soup with whole-grain bread,Baked veggies with lean protein
+18,97,162,1.725,healthy,3273.19,Oatmeal with fruits,Grilled chicken with veggies,Vegetable stir fry
+61,84,157,1.375,healthy,2091.72,Oatmeal with fruits,Grilled chicken with veggies,Baked salmon with quinoa
+52,111,162,1.9,diabetic,3253.75,Boiled eggs with avocado,Steamed fish with greens,Lentil soup with whole-grain bread
+36,55,150,1.725,liver_disease,1996.69,Boiled oats with almond milk,Vegetable soup with whole-grain bread,Grilled fish with quinoa
+33,78,149,1.725,diabetic,2408.53,Low-sugar smoothie,Quinoa salad with tofu,Grilled fish with steamed greens
+30,94,180,1.375,high_bp,2426.88,Whole-grain toast with peanut butter,Grilled tofu with spinach,Lentil soup with whole-grain
+62,74,180,1.2,healthy,1872.0,Greek yogurt with honey,Turkey sandwich,Grilled chicken with sweet potatoes
+47,58,157,1.9,liver_disease,2234.88,Boiled oats with almond milk,Boiled chicken with steamed rice,Grilled fish with quinoa
+24,57,179,1.2,diabetic,1702.5,Boiled eggs with avocado,Quinoa salad with tofu,Lentil soup with whole-grain bread
+52,73,198,1.9,diabetic,2959.25,Oatmeal with chia seeds,Boiled chicken with veggies,Steamed veggies with tofu
+59,50,181,1.725,high_bp,2046.28,Egg whites with avocado,Grilled tofu with spinach,Vegetable curry with rice
+51,114,190,1.55,healthy,3220.12,Scrambled eggs with toast,Turkey sandwich,Grilled chicken with sweet potatoes
+18,100,178,1.375,liver_disease,2574.69,Vegetable omelette,Vegetable soup with whole-grain bread,Baked veggies with lean protein
+59,79,141,1.375,diabetic,1686.09,Low-sugar smoothie,Steamed fish with greens,Steamed veggies with tofu
+36,108,157,1.9,high_bp,3289.38,Egg whites with avocado,Steamed fish with brown rice,Steamed vegetables with grilled chicken
+59,85,141,1.55,liver_disease,1993.69,Vegetable omelette,Boiled chicken with steamed rice,Vegetable stew with rice
+36,56,198,1.2,high_bp,1761.0,Egg whites with avocado,Grilled tofu with spinach,Steamed vegetables with grilled chicken
+36,90,169,1.375,high_bp,2236.09,Egg whites with avocado,Chicken salad with olive oil,Lentil soup with whole-grain
+34,54,164,1.725,liver_disease,2147.62,Vegetable omelette,Boiled chicken with steamed rice,Vegetable stew with rice
+27,88,189,1.375,diabetic,2442.34,Oatmeal with chia seeds,Quinoa salad with tofu,Steamed veggies with tofu
+53,56,151,1.2,liver_disease,1306.5,Smoothie with chia seeds,Vegetable soup with whole-grain bread,Vegetable stew with rice
+42,56,145,1.9,high_bp,2101.88,Whole-grain toast with peanut butter,Grilled tofu with spinach,Vegetable curry with rice
+28,82,148,1.375,liver_disease,2000.62,Boiled oats with almond milk,Vegetable soup with whole-grain bread,Vegetable stew with rice
+45,104,146,1.9,liver_disease,2997.25,Smoothie with chia seeds,Grilled fish with steamed greens,Baked veggies with lean protein
+64,65,194,1.725,healthy,2669.44,Oatmeal with fruits,Grilled chicken with veggies,Baked salmon with quinoa
+42,89,156,1.725,diabetic,2596.12,Boiled eggs with avocado,Quinoa salad with tofu,Steamed veggies with tofu
+37,65,193,1.375,diabetic,2091.72,Boiled eggs with avocado,Boiled chicken with veggies,Lentil soup with whole-grain bread
+63,89,175,1.2,high_bp,1822.5,Banana smoothie,Steamed fish with brown rice,Lentil soup with whole-grain
+58,85,176,1.9,diabetic,2869.0,Low-sugar smoothie,Quinoa salad with tofu,Lentil soup with whole-grain bread
+47,45,177,1.55,healthy,2055.69,Greek yogurt with honey,Turkey sandwich,Vegetable stir fry
+53,98,198,1.2,healthy,2349.0,Scrambled eggs with toast,Quinoa salad with avocado,Grilled chicken with sweet potatoes
+62,96,160,1.2,diabetic,1800.0,Oatmeal with chia seeds,Steamed fish with greens,Steamed veggies with tofu
+22,97,180,1.375,diabetic,2523.12,Boiled eggs with avocado,Boiled chicken with veggies,Steamed veggies with tofu
+64,111,199,1.9,liver_disease,3579.12,Boiled oats with almond milk,Vegetable soup with whole-grain bread,Grilled fish with quinoa
+35,110,190,1.9,high_bp,3728.75,Banana smoothie,Chicken salad with olive oil,Lentil soup with whole-grain
+51,118,173,1.2,high_bp,2227.5,Egg whites with avocado,Chicken salad with olive oil,Vegetable curry with rice
+55,92,192,1.2,healthy,2220.0,Greek yogurt with honey,Turkey sandwich,Vegetable stir fry
+35,83,143,1.2,liver_disease,1678.5,Boiled oats with almond milk,Boiled chicken with steamed rice,Grilled fish with quinoa
+64,40,186,1.375,liver_disease,1502.19,Boiled oats with almond milk,Grilled fish with steamed greens,Vegetable stew with rice
+50,61,144,1.375,diabetic,1526.25,Boiled eggs with avocado,Steamed fish with greens,Lentil soup with whole-grain bread
+30,88,149,1.9,liver_disease,2871.38,Vegetable omelette,Boiled chicken with steamed rice,Grilled fish with quinoa
+36,74,179,1.55,liver_disease,2369.56,Boiled oats with almond milk,Boiled chicken with steamed rice,Grilled fish with quinoa
+30,117,188,1.55,healthy,3410.0,Oatmeal with fruits,Quinoa salad with avocado,Grilled chicken with sweet potatoes
+32,78,155,1.9,healthy,3028.12,Greek yogurt with honey,Grilled chicken with veggies,Grilled chicken with sweet potatoes
+21,40,182,1.55,healthy,2228.12,Greek yogurt with honey,Grilled chicken with veggies,Grilled chicken with sweet potatoes
+32,49,198,1.9,healthy,2987.75,Oatmeal with fruits,Grilled chicken with veggies,Grilled chicken with sweet potatoes
+22,117,187,1.375,liver_disease,2858.28,Vegetable omelette,Boiled chicken with steamed rice,Baked veggies with lean protein
+63,58,170,1.725,healthy,2298.56,Scrambled eggs with toast,Quinoa salad with avocado,Grilled chicken with sweet potatoes
+37,103,161,1.2,liver_disease,2041.5,Vegetable omelette,Grilled fish with steamed greens,Baked veggies with lean protein
+45,83,188,1.2,liver_disease,1956.0,Boiled oats with almond milk,Grilled fish with steamed greens,Baked veggies with lean protein
+18,83,167,1.375,high_bp,2246.41,Whole-grain toast with peanut butter,Steamed fish with brown rice,Vegetable curry with rice
+50,116,141,1.725,healthy,3098.53,Scrambled eggs with toast,Turkey sandwich,Grilled chicken with sweet potatoes
+42,109,178,1.375,diabetic,2533.44,Boiled eggs with avocado,Boiled chicken with veggies,Steamed veggies with tofu
+32,93,157,1.2,diabetic,1921.5,Boiled eggs with avocado,Steamed fish with greens,Steamed veggies with tofu
+35,50,160,1.375,liver_disease,1615.62,Vegetable omelette,Boiled chicken with steamed rice,Grilled fish with quinoa
+41,71,192,1.55,liver_disease,2410.25,Smoothie with chia seeds,Boiled chicken with steamed rice,Grilled fish with quinoa
+60,60,191,1.9,liver_disease,2553.12,Boiled oats with almond milk,Boiled chicken with steamed rice,Grilled fish with quinoa
+28,99,164,1.725,healthy,3243.0,Scrambled eggs with toast,Grilled chicken with veggies,Baked salmon with quinoa
+47,86,173,1.2,liver_disease,1867.5,Vegetable omelette,Grilled fish with steamed greens,Grilled fish with quinoa
+63,48,192,1.2,healthy,1644.0,Greek yogurt with honey,Grilled chicken with veggies,Grilled chicken with sweet potatoes
+62,93,171,1.375,healthy,2328.91,Greek yogurt with honey,Grilled chicken with veggies,Vegetable stir fry
+59,89,179,1.725,liver_disease,2697.47,Boiled oats with almond milk,Grilled fish with steamed greens,Vegetable stew with rice
+51,74,197,1.2,liver_disease,1879.5,Vegetable omelette,Boiled chicken with steamed rice,Grilled fish with quinoa
+42,118,173,1.725,high_bp,3279.66,Egg whites with avocado,Grilled tofu with spinach,Lentil soup with whole-grain
+47,83,147,1.9,healthy,2885.62,Scrambled eggs with toast,Grilled chicken with veggies,Vegetable stir fry
+49,45,174,1.9,high_bp,2170.75,Egg whites with avocado,Chicken salad with olive oil,Steamed vegetables with grilled chicken
+60,110,197,1.725,high_bp,3245.16,Egg whites with avocado,Chicken salad with olive oil,Steamed vegetables with grilled chicken
+51,43,161,1.2,liver_disease,1237.5,Boiled oats with almond milk,Grilled fish with steamed greens,Grilled fish with quinoa
+20,120,154,1.55,diabetic,2964.38,Oatmeal with chia seeds,Steamed fish with greens,Steamed veggies with tofu
+41,47,145,1.725,diabetic,1761.66,Low-sugar smoothie,Steamed fish with greens,Grilled fish with steamed greens
+54,81,153,1.725,high_bp,2322.28,Egg whites with avocado,Steamed fish with brown rice,Lentil soup with whole-grain
+28,114,173,1.55,liver_disease,2993.44,Smoothie with chia seeds,Boiled chicken with steamed rice,Baked veggies with lean protein
+54,60,144,1.375,healthy,1698.12,Scrambled eggs with toast,Quinoa salad with avocado,Grilled chicken with sweet potatoes
+24,94,179,1.725,high_bp,3085.59,Banana smoothie,Steamed fish with brown rice,Steamed vegetables with grilled chicken
+47,84,141,1.725,liver_disease,2305.03,Boiled oats with almond milk,Grilled fish with steamed greens,Grilled fish with quinoa
+57,66,153,1.9,liver_disease,2244.38,Smoothie with chia seeds,Grilled fish with steamed greens,Baked veggies with lean protein
+26,90,142,1.375,high_bp,2072.81,Whole-grain toast with peanut butter,Steamed fish with brown rice,Steamed vegetables with grilled chicken
+28,89,170,1.55,diabetic,2576.88,Low-sugar smoothie,Boiled chicken with veggies,Lentil soup with whole-grain bread
+22,92,159,1.55,liver_disease,2563.31,Boiled oats with almond milk,Grilled fish with steamed greens,Grilled fish with quinoa
+51,67,195,1.55,diabetic,2299.81,Boiled eggs with avocado,Boiled chicken with veggies,Grilled fish with steamed greens
+41,114,143,1.55,healthy,2842.31,Oatmeal with fruits,Quinoa salad with avocado,Baked salmon with quinoa
+47,61,191,1.725,diabetic,2447.34,Oatmeal with chia seeds,Steamed fish with greens,Grilled fish with steamed greens
+21,108,156,1.2,diabetic,2160.0,Boiled eggs with avocado,Steamed fish with greens,Grilled fish with steamed greens
+59,73,194,1.9,high_bp,2845.25,Egg whites with avocado,Chicken salad with olive oil,Vegetable curry with rice
+56,79,176,1.2,healthy,1938.0,Oatmeal with fruits,Turkey sandwich,Vegetable stir fry
+44,99,171,1.9,healthy,3503.12,Scrambled eggs with toast,Grilled chicken with veggies,Grilled chicken with sweet potatoes
+46,114,155,1.375,diabetic,2377.03,Low-sugar smoothie,Quinoa salad with tofu,Grilled fish with steamed greens

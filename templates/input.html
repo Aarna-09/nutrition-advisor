@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nutrition Advisor - User Details</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <style>
+    body {
+      background: linear-gradient(135deg, #a8edea, #fed6e3);
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Poppins', sans-serif;
+    }
+
+    .card {
+      border: none;
+      border-radius: 20px;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+      transition: transform 0.2s ease-in-out;
+    }
+
+    .card:hover {
+      transform: translateY(-5px);
+    }
+
+    .card-body {
+      padding: 2rem 2.5rem;
+    }
+
+    h3 {
+      font-weight: 600;
+      color: #2c3e50;
+    }
+
+    label {
+      font-weight: 500;
+      color: #34495e;
+    }
+
+    .form-control, .form-select {
+      border-radius: 12px;
+      padding: 10px;
+      border: 1px solid #ccc;
+    }
+
+    .form-control:focus, .form-select:focus {
+      border-color: #28a745;
+      box-shadow: 0 0 0 0.25rem rgba(40, 167, 69, 0.25);
+    }
+
+    .btn-success {
+      background: linear-gradient(to right, #56ab2f, #a8e063);
+      border: none;
+      border-radius: 12px;
+      padding: 10px;
+      font-weight: 600;
+      transition: background 0.3s ease;
+    }
+
+    .btn-success:hover {
+      background: linear-gradient(to right, #4CAF50, #7bd56a);
+    }
+
+    .form-check-label {
+      color: #2c3e50;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-8 col-lg-6">
+        <div class="card mt-4 shadow-lg">
+          <div class="card-body">
+            <h3 class="text-center mb-4">🥗 Nutrition Advisor</h3>
+            <p class="text-center text-muted mb-4">Fill out your details to get a personalized diet and fitness plan</p>
+            
+            <form method="POST" action="/">
+
+              <div class="mb-3">
+                <label for="name" class="form-label">Full Name</label>
+                <input type="text" class="form-control" name="name" id="name" placeholder="Enter your name" required>
+              </div>
+
+              <div class="row">
+                <div class="col-md-6 mb-3">
+                  <label for="age" class="form-label">Age</label>
+                  <input type="number" class="form-control" name="age" id="age" placeholder="e.g. 25" required>
+                </div>
+                <div class="col-md-6 mb-3">
+                  <label for="weight" class="form-label">Weight (kg)</label>
+                  <input type="number" step="0.1" class="form-control" name="weight" id="weight" placeholder="e.g. 68.5" required>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md-6 mb-3">
+                  <label for="height" class="form-label">Height (cm)</label>
+                  <input type="number" step="0.1" class="form-control" name="height" id="height" placeholder="e.g. 172" required>
+                </div>
+                <div class="col-md-6 mb-3">
+                  <label for="activity_level" class="form-label">Activity Level</label>
+                  <select class="form-select" name="activity_level" id="activity_level" required>
+                    <option value="1.2">Sedentary (little to no exercise)</option>
+                    <option value="1.375">Lightly Active (1–3 days/week)</option>
+                    <option value="1.55">Moderately Active (3–5 days/week)</option>
+                    <option value="1.725">Very Active (6–7 days/week)</option>
+                    <option value="1.9">Extra Active (physical job)</option>
+                  </select>
+                </div>
+              </div>
+
+              <div class="mb-3">
+                <label class="form-label">Health Conditions</label><br>
+                <div class="form-check form-check-inline">
+                  <input class="form-check-input" type="checkbox" name="diabetic" id="diabetic">
+                  <label class="form-check-label" for="diabetic">Diabetic</label>
+                </div>
+                <div class="form-check form-check-inline">
+                  <input class="form-check-input" type="checkbox" name="high_bp" id="high_bp">
+                  <label class="form-check-label" for="high_bp">High Blood Pressure</label>
+                </div>
+                <div class="form-check form-check-inline">
+                  <input class="form-check-input" type="checkbox" name="liver_disease" id="liver_disease">
+                  <label class="form-check-label" for="liver_disease">Liver Disease</label>
+                </div>
+              </div>
+
+              <div class="d-grid mt-4">
+                <button type="submit" class="btn btn-success btn-lg">Get My Diet Plan 🍎</button>
+              </div>
+            </form>
+          </div>
+        </div>
+
+        <footer class="text-center mt-4 mb-3 text-muted" style="font-size: 0.9rem;">
+          © 2025 Nutrition Advisor | Personalized Wellness Plans
+        </footer>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
